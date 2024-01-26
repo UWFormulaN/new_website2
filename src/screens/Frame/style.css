@@ -1,0 +1,289 @@
+.frame {
+  background-color: #f5f5f5;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center; /* Added this line */
+  width: 100%;
+  position: absolute;
+}
+
+.frame .div {
+  background-color: #f5f5f5;
+  height: 3533px;
+  position: relative;
+  width: 100%;
+}
+
+.frame .overlap {
+  height: 30%;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.frame .rectangle {
+  height: 15%;
+  left: 0;
+  position: relative;
+  top: 0;
+  width: 100%;
+}
+
+.frame .FORMULA-NANO {
+  color: #212121;
+  font-family: "Krona One", Helvetica;
+  font-size: 150%;
+  font-weight: 400;
+  left: 15%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5%;
+  width: 527px;
+}
+
+.frame .group-4-svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+
+
+.frame .text-wrapper {
+  color: #000000;
+  font-family: "Krona One", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  right: 20%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top:63px;
+  width: 142px;
+}
+
+.frame .text-wrapper-2 {
+  color: #000000;
+  font-family: "Krona One", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 79%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: 136px;
+}
+
+.frame .text-wrapper-3 {
+  color: #000000;
+  font-family: "Krona One", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 84%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: 257px;
+}
+
+.frame .rectangle-2 {
+  background-color: #2e2020;
+  height: 75%;
+  position: relative;
+
+  width: 100%;
+}
+
+.frame .ellipse {
+  background-color: #212121;
+  border-radius: 1.91px;
+  height: 4px;
+  left: 228px;
+  position: absolute;
+  top: -258px;
+  width: 4px;
+}
+
+.frame .overlap-group {
+  height: 688px;
+  left: 103px;
+  position: absolute;
+  top: 1168px;
+  width: 80%;
+}
+
+.frame .rectangle-3 {
+  background-color: #d9d9d9;
+  height: 687px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 80%;
+}
+
+.frame .text-wrapper-4 {
+  color: #000000;
+  font-family: "Krona One", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  height: 80px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1451px;
+}
+
+.frame .p {
+  color: #000000;
+  font-family: "Krona One", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+  width: 1451px;
+}
+
+.frame .overlap-2 {
+  height: 688px;
+  left: 103px;
+  position: absolute;
+  top: 1954px;
+  width: 80%;
+}
+
+.frame .ellipse-2 {
+  background-color: #d9d9d9;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 100px;
+  height: 200px;
+  left: 104px;
+  position: absolute;
+  top: 191px;
+  width: 200px;
+}
+
+.frame .ellipse-3 {
+  background-color: #d9d9d9;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 100px;
+  height: 200px;
+  left: 459px;
+  position: absolute;
+  top: 191px;
+  width: 200px;
+}
+
+.frame .ellipse-4 {
+  background-color: #d9d9d9;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 100px;
+  height: 200px;
+  left: 814px;
+  position: absolute;
+  top: 191px;
+  width: 200px;
+}
+
+.frame .ellipse-5 {
+  background-color: #d9d9d9;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 100px;
+  height: 200px;
+  left: 1169px;
+  position: absolute;
+  top: 191px;
+  width: 200px;
+}
+
+.frame .name-position {
+  color: #000000;
+  font-family: "Krona One", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 422px;
+  width: 320px;
+}
+
+.frame .name-position-2 {
+  color: #000000;
+  font-family: "Krona One", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 399px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 422px;
+  width: 320px;
+}
+
+.frame .name-position-3 {
+  color: #000000;
+  font-family: "Krona One", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 754px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 422px;
+  width: 320px;
+}
+
+.frame .name-position-4 {
+  color: #000000;
+  font-family: "Krona One", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 1109px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 422px;
+  width: 320px;
+}
+
+.frame .overlap-group-2 {
+  height: 688px;
+  left: 103px;
+  position: absolute;
+  top: 2740px;
+  width: 1479px;
+}
+
+.frame .text-wrapper-5 {
+  color: #000000;
+  font-family: "Krona One", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+  width: 1451px;
+}
