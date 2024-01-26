@@ -31,9 +31,9 @@ export const Frame = () => {
           <div className="ellipse-4" />
           <div className="ellipse-5" />
           <div className="name-position">
-            Ryan Miller
+            Name
             <br />
-            Computation Lead
+            Position
           </div>
           <div className="name-position-2">
             Name
