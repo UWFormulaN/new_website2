@@ -3,10 +3,10 @@ title:
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "uwformulanano.ca" # the base hostname & protocol for your site
 
 twitter_username:
-github_username: RyanM1235
+github_username: 
 
 # Build settings
 markdown: kramdown
